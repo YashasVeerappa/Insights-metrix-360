@@ -41,7 +41,7 @@ The solution is divided into 5 specialized views to cater to different stakehold
 *   **Objective:** Analyze financial health across markets, products, and customers.
 *   **Key Insights:** Detailed P&L statements allowing drill-downs into **Net Sales**, **Gross Margin**, and **Net Profit**.
 *   **Impact:** Enables financial planners to benchmark performance against last year (LY) and set realistic targets (YTD).
-![Uploading Screenshot 2025-12-09 at 1.58.49 PM.png…]()
+
 
 
 **2. 🤝 Sales View (Customer & Market Strategy)**
