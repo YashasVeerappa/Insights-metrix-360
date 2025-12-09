@@ -85,6 +85,6 @@ The solution is divided into 5 specialized views to cater to different stakehold
 
 If you found this project insightful or want to discuss data strategy, optimization, and analytics opportunities, feel free to connect!
 
-*   💼 **LinkedIn:** [**Omkar Sharma**](https://www.linkedin.com/in/yashas-veerappa/)
+*   💼 **LinkedIn:** [**Yashas v**](https://www.linkedin.com/in/yashas-veerappa/)
 *   📂 **Portfolio:** [**My Portfolio**]()
 *   
